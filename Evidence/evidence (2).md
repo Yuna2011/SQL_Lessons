@@ -5,6 +5,8 @@
 Hash : 8b93518
 Message : Finished the lesson and answered all the questions as well as all the extension bits.
 - Commit 2 hash + message:
+Hash : 0057f25
+Message : Committing my commit. No changes made to code.
 - Optional Commit 3 hash + message:
 
 ## Run evidence
