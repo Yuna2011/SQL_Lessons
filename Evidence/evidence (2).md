@@ -2,6 +2,8 @@
 
 ## Commit evidence (minimum 2)
 - Commit 1 hash + message:
+Hash : 8b93518
+Message : Finished the lesson and answered all the questions as well as all the extension bits.
 - Commit 2 hash + message:
 - Optional Commit 3 hash + message:
 
