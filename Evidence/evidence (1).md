@@ -5,6 +5,8 @@
 Hash : c063bb8
 Message : Finished lesson1 and the other extension bits by adding a print function and changing my db name to library. Also downloaded sql viewer and sqlite to view my created (empty) databases.
 - Commit 2 hash + message:
+Hash : 46c44fc
+Message : This is my second commit that I am committing after saving my first commit. Nothing changed in my code overall.
 - Optional Commit 3 hash + message:
 
 ## Run evidence
