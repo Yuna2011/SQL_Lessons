@@ -6,6 +6,9 @@ Hash : 9ae80d8
 Message : Made my file and read through what is expected for lesson 3
 
 - Commit 2 hash + message:
+Hash : 0e3006e
+Message : Finished all of my questions, the code and ticked all of the boxes.
+
 - Optional Commit 3 hash + message:
 
 ## Run evidence
