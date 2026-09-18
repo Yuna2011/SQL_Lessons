@@ -5,8 +5,8 @@
 Hash : 678a5b3
 Message : I made my file and read through the theory
 - Commit 2 hash + message:
-Hash :
-Message : 
+Hash : 1c76951
+Message : Finished all the work, the questions and ticked all boxes
 - Optional Commit 3 hash + message:
 
 ## Run evidence
