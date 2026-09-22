@@ -5,6 +5,8 @@
 Hash : 85633be
 Message : Read through the notes and instructions and made my file
 - Commit 2 hash + message:
+Hash : 3779009
+Message : I finished my code, the extension work and answered all the question as well as ticked all the boxes.
 - Optional Commit 3 hash + message:
 
 ## Run evidence
