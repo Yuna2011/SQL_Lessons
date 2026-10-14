@@ -5,6 +5,8 @@
 Hash : 4bdd767
 Message : Created my file, read through the information and started on the code. Just have the stretch challenge left.
 - Commit 2 hash + message:
+Hash : f061ec8
+Message : Finished the stretch challenge and edited things here and there. Finished all my questions and ticked all the sections
 - Optional Commit 3 hash + message:
 
 ## Run evidence
