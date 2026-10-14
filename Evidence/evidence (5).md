@@ -11,8 +11,12 @@ Message : I finished my code, the extension work and answered all the question a
 
 ## Run evidence
 - Command run:
-python Porject_Folder/lesson5_join.py
+python Project_Folder/lesson5_join.py
 - Terminal output pasted below:
+('Ava', 'Science Club')
+('Leo', 'Math Team')
+('Ava', 'English Team')
+('Max', 'TAS Team')
 
 ## Typed-work confirmation
 - Briefly describe how you typed your changes step-by-step (including at least one pause to run and check output):
